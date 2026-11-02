@@ -4,8 +4,6 @@ A deep learning web app that recognizes what is in a photo. It uses a **ResNet50
 
 🌐 **Live Demo:** [Open the app][https://cifer-10.streamlit.app/]
 
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 📌 Overview
@@ -102,7 +100,7 @@ The app opens at `http://localhost:8501`.
 
 ## 👤 Author
 
-**Zeeshan**
+**Zeeshan Ahmad**
 GitHub: [@Zeeshan608](https://github.com/Zeeshan608)
 
 ---
