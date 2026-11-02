@@ -46,7 +46,7 @@ cifar10-app/
 ├── app.py                    # Streamlit web app
 ├── cifar10_resnet50.keras    # Trained model
 ├── requirements.txt          # Python dependencies
-├── screenshot.png            # App screenshot used in this README
+├── screenshot.png          
 └── README.md
 ```
 
