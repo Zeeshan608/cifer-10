@@ -2,7 +2,7 @@
 
 A deep learning web app that recognizes what is in a photo. It uses a **ResNet50** model, pretrained on ImageNet and fine-tuned on the **CIFAR-10** dataset, with a Streamlit frontend.
 
-🌐 **Live Demo:** [Open the app](YOUR_STREAMLIT_APP_LINK_HERE)
+🌐 **Live Demo:** [Open the app][https://cifer-10.streamlit.app/]
 
 ![App Screenshot](screenshot.png)
 
